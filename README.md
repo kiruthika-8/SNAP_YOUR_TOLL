@@ -42,7 +42,7 @@ This Project implements a distance-based toll charging using GPS, the vehicle is
 - Reduce Traffic Congestion
 
 # Author
-Kiruthika C G
+Kiruthika C G , Nalina S
   
   
 
