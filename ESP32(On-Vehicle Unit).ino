@@ -9,7 +9,7 @@
 #define WIFI_SSID "wifi"
 #define WIFI_PASSWORD "password"
 
-#define API_KEY "AIzaSyD3l43bYYzh7UojvhiYssAd0aOsGbPJqIY"
+#define API_KEY "Api key"
 #define DATABASE_URL "https://boothlesstoll-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 
